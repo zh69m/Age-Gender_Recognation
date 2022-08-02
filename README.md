@@ -1,2 +1,2 @@
 # Age-Gender_Recognation
-Program for prediction age&gender
+Program for prediction Age&Gender
